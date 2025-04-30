@@ -34,3 +34,11 @@ Readme용 깃허브
 > 인터넷에 있는 내용은 전부 진짜다.
 >> 라고 누군가가 말했다.
 >>> 그리고 그걸 사람들이 믿었다.
+
+## 링크
+1. 일반적인 링크 <http://www.naver.com>
+2. [유니티 깃허브](github.com/UnityBootcamp13thGW)  
+3. [유니티 깃허브](github.com/UnityBootcamp13thGW, "내 블로그")
+
+## 이미지
+![image](https://github.com/user-attachments/assets/261f6dd5-ea0b-418c-b612-c46c55c77f1c)
